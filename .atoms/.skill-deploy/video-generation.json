@@ -1,0 +1,23 @@
+{
+  "files": {
+    "SKILL.md": "997b6da729ab4acca99ff3fd8c47011b93b7b66b47d8933bc9d0bc17e361da4e",
+    "references/models/happyhorse.md": "ee48dc72acb0051b950221bc1ba92f28f1476922bce02a94ac91f8bc140e2f92",
+    "references/models/index.md": "dc079c83b3f828347eb1af3ea2db81e8cb7938b31ad3b8aef4a8460c9b7e3b29",
+    "references/models/pending.md": "a4084e2e1f69f77b9a35bc263629bb568399fcbfcb957db79b690514ff15ecf3",
+    "references/models/seedance-2.0.md": "9a877d9a57ae7cdc2815df714024917d1e85d1532856b4fcff45101d5fa4a87f",
+    "references/models/seedance-2.5.md": "4ceafc768ee11ed785ce1a9f5a3b3212879fa77285729ab99728068bb6966c28",
+    "references/models/wan2.6.md": "4fc7fd4b43e0db2444896d8ec30b47da55a1159778906a32fb65b8f04706e6d2",
+    "references/models/wan2.7.md": "165a990ba4796ad9a93d402d48a23ebae1eb325ca82e722375ba5e47f0991a93",
+    "references/models/wan3.0.md": "3992752cf2bed20a62dba8ec5e6215987aee39ca8a75bc4f5b24d488a23ce75e",
+    "references/seedance-media.md": "ce2b6738217ccb8410bc0a2f958a219548af99f55f976a1085d01d9904e4fb34",
+    "references/seedance-native.md": "afc0ea348eccf256d2e835e32b92e9766d46bd7315fb6ef3b4411f3a86b2af68",
+    "scripts/generate.py": "99f5c545c1884ada54fd617c1039b3757a8f62d615289e194e241e42b1d1f9fa",
+    "scripts/report.py": "cad1836a91850761aa0e0d318d7b1584c1d86ddf291da9966df38e9771546584",
+    "scripts/seedance/generate.py": "140074c90477460011bdcb1a0f1b217ecd21855d2bf36e88c21c4d9021266ede",
+    "scripts/seedance/prepare_media.py": "51ddf9bc41dc66e8428933d0534ba383e6bddad9346bc146ced70206434e3703",
+    "scripts/seedance/report.py": "cad1836a91850761aa0e0d318d7b1584c1d86ddf291da9966df38e9771546584"
+  },
+  "name": "video-generation",
+  "owner": "builtin",
+  "schema_version": 1
+}

@@ -1,0 +1,38 @@
+{
+  "title": "llm_settings",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "base_url": {
+      "type": "string"
+    },
+    "token_encrypted": {
+      "type": "string",
+      "format": "text"
+    },
+    "llm_model": {
+      "type": "string"
+    },
+    "user_id": {
+      "type": "string",
+      "description": "System-managed owner user ID"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    }
+  },
+  "required": [
+    "id",
+    "user_id"
+  ],
+  "create_only": true
+}

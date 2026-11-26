@@ -1,0 +1,16 @@
+# Local settings and runtime files
+.DS_Store
+.env
+.env.*
+!.env.example
+!.env.sample
+*.log
+/app/backend/logs/
+/attachments/
+
+# Dependencies and build output
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]

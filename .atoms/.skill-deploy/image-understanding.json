@@ -1,0 +1,9 @@
+{
+  "files": {
+    "SKILL.md": "568dd820bd58ef5e6c501670e2e6cae5c2d175146a324bdaa5bad9d8408fda3f",
+    "scripts/analyze.py": "c165bd68b45057b3fcddae80d8778383086cca96d86ae8316d37dc7868958317"
+  },
+  "name": "image-understanding",
+  "owner": "builtin",
+  "schema_version": 1
+}

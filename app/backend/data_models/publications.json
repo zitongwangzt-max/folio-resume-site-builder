@@ -1,0 +1,47 @@
+{
+  "title": "publications",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "resume_id": {
+      "type": "integer"
+    },
+    "slug": {
+      "type": "string",
+      "unique": true
+    },
+    "html": {
+      "type": "string",
+      "format": "text"
+    },
+    "avatar_key": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "user_id": {
+      "type": "string",
+      "description": "System-managed owner user ID"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    }
+  },
+  "required": [
+    "id",
+    "resume_id",
+    "slug",
+    "user_id"
+  ],
+  "create_only": true
+}

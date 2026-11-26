@@ -1,0 +1,40 @@
+{
+  "title": "resume_messages",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "resume_id": {
+      "type": "integer"
+    },
+    "role": {
+      "type": "string"
+    },
+    "content": {
+      "type": "string",
+      "format": "text"
+    },
+    "user_id": {
+      "type": "string",
+      "description": "System-managed owner user ID"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    }
+  },
+  "required": [
+    "id",
+    "resume_id",
+    "role",
+    "user_id"
+  ],
+  "create_only": true
+}

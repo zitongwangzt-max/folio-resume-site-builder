@@ -1,0 +1,9 @@
+{
+  "files": {
+    "SKILL.md": "57b263fc22ed55a38e54b252ea76eb0b0487668b47b9ef19a1a8983d8f6776e4",
+    "scripts/export.py": "1bd3db061ada15a1c4aa745424c02e1def725cfad03cd84bcdead28da2f89665"
+  },
+  "name": "markdown-pdf-export",
+  "owner": "builtin",
+  "schema_version": 1
+}

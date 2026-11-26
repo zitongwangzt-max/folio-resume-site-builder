@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "filename": "homepage-candidate-1.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccro4acampa/homepage-candidate-1.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccro4acampa/homepage-candidate-1.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccro4acampa/homepage-candidate-1.png",
+      "requested_size": "1536x1024",
+      "size": "1536x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "homepage-candidate-2.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrpiycamsa/homepage-candidate-2.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrpiycamsa/homepage-candidate-2.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrpiycamsa/homepage-candidate-2.png",
+      "requested_size": "1536x1024",
+      "size": "1536x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "homepage-candidate-3.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrpvycamrq/homepage-candidate-3.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrpvycamrq/homepage-candidate-3.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrpvycamrq/homepage-candidate-3.png",
+      "requested_size": "1536x1024",
+      "size": "1536x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "homepage-candidate-4.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrqcqcamra/homepage-candidate-4.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrqcqcamra/homepage-candidate-4.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrqcqcamra/homepage-candidate-4.png",
+      "requested_size": "1536x1024",
+      "size": "1536x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "homepage-candidate-5.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrqpqcamqq/homepage-candidate-5.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrqpqcamqq/homepage-candidate-5.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1666005/2026-11-25/3ccrqpqcamqq/homepage-candidate-5.png",
+      "requested_size": "1536x1024",
+      "size": "1536x1024",
+      "size_adjustments": []
+    }
+  ],
+  "success_count": 5,
+  "failed_count": 0,
+  "running_count": 0,
+  "message": "Generated 5/5 images total"
+}

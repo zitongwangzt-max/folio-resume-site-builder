@@ -1,0 +1,49 @@
+{
+  "title": "resume_versions",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "resume_id": {
+      "type": "integer"
+    },
+    "label": {
+      "type": "string"
+    },
+    "profile_json": {
+      "type": "string",
+      "format": "text"
+    },
+    "html": {
+      "type": "string",
+      "format": "text"
+    },
+    "style_key": {
+      "type": "string"
+    },
+    "avatar_key": {
+      "type": "string"
+    },
+    "user_id": {
+      "type": "string",
+      "description": "System-managed owner user ID"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    }
+  },
+  "required": [
+    "id",
+    "resume_id",
+    "user_id"
+  ],
+  "create_only": true
+}

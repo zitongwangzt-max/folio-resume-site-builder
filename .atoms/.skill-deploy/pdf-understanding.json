@@ -1,0 +1,9 @@
+{
+  "files": {
+    "SKILL.md": "10408543c4e75e9abc2d62741a53ebc90c2a0d8ce6cc0828aa72a69439fc41ed",
+    "scripts/analyze.py": "7954fc4153735a1265f104935d751f62aacdfbef8f42b21f6f0806df2c547052"
+  },
+  "name": "pdf-understanding",
+  "owner": "builtin",
+  "schema_version": 1
+}

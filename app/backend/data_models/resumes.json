@@ -1,0 +1,53 @@
+{
+  "title": "resumes",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    },
+    "source_text": {
+      "type": "string",
+      "format": "text"
+    },
+    "profile_json": {
+      "type": "string",
+      "format": "text"
+    },
+    "current_html": {
+      "type": "string",
+      "format": "text"
+    },
+    "current_style": {
+      "type": "string"
+    },
+    "avatar_key": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "user_id": {
+      "type": "string",
+      "description": "System-managed owner user ID"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    }
+  },
+  "required": [
+    "id",
+    "title",
+    "user_id"
+  ],
+  "create_only": true
+}

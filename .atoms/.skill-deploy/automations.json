@@ -1,0 +1,9 @@
+{
+  "files": {
+    "SKILL.md": "042d16385fb24d700752f37ef6620e3aebe997544ba4c70014cd0f99b703f967",
+    "scripts/propose.py": "1d011cfe26365cb51a7484fc6ef25dd4ba5a328ed67c036962237207fe1a380a"
+  },
+  "name": "automations",
+  "owner": "builtin",
+  "schema_version": 1
+}

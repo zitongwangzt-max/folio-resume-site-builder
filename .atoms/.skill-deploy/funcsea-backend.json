@@ -1,0 +1,16 @@
+{
+  "files": {
+    "SKILL.md": "c7eb2a898c39409de50468378f0af16484292e428db595f58b46475dd9bfe25c",
+    "assets/frontend/src/lib/auth.ts": "7aefd6e86d788d44768facc2a8e41c820d8969dfa020c2b4bf86a23d38d220b0",
+    "assets/frontend/src/lib/funcsea-runtime-compat.ts": "4e4afbf0d3b90140c2b5ee1ca1f0ebf2838bc40cad2dedbe8cd326aab5094d46",
+    "references/ai_capability.md": "3c554079e39db1ad83845d6573ab187dbd472585322cc7dbb7488e94dad10a8d",
+    "references/backend-resources.md": "9dd21081385fe3746eb4d3d6460f0b81c1fb166154e64a4f5d3f21f49cb1f350",
+    "references/custom_api.md": "ca2081b3fb9683238e5210abcf7c78d49b70693d843b4b6f3095bc390b840d7f",
+    "references/object_storage.md": "83c1d4427e6fe4fb186c72e09edd86b9df10190fe4ea2d79f2cc83bbf07c9b40",
+    "references/web_sdk.md": "d927f2322398326e4857c7529c96b6017b8ef8fbc75c724a99ecbf4a725a0759",
+    "scripts/init_template.py": "330db00919e1b165141b2260de5332bda1f94681c4bd8a28d121199692525871"
+  },
+  "name": "funcsea-backend",
+  "owner": "builtin",
+  "schema_version": 1
+}

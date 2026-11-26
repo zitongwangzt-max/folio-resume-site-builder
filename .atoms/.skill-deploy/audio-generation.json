@@ -1,0 +1,9 @@
+{
+  "files": {
+    "SKILL.md": "0b826a2d42667b18d982bcd76086b7de868569373aed1f46daf2f53e0424992d",
+    "scripts/generate.py": "263960d2f5c1bd41bb9f3e5f986b58acca80f22430f564022c3fc164903afdd2"
+  },
+  "name": "audio-generation",
+  "owner": "builtin",
+  "schema_version": 1
+}

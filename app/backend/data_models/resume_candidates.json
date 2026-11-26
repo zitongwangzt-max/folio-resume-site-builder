@@ -1,0 +1,46 @@
+{
+  "title": "resume_candidates",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "resume_id": {
+      "type": "integer"
+    },
+    "style_key": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "html": {
+      "type": "string",
+      "format": "text"
+    },
+    "user_id": {
+      "type": "string",
+      "description": "System-managed owner user ID"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time",
+      "read_only": true
+    }
+  },
+  "required": [
+    "id",
+    "resume_id",
+    "style_key",
+    "user_id"
+  ],
+  "create_only": true
+}
